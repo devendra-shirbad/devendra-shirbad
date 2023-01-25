@@ -1,16 +1,20 @@
-### Hi there 👋
+Hello,
 
-<!--
-**devendra-shirbad/devendra-shirbad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I read the project requirements and I would like to bid/work on this project.
 
-Here are some ideas to get you started:
+Please check my resume. It's given below the signature.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Please don't forget to check my profile on this platform for details.
+* Marketplace Work History (with reviews and ratings)
+* Portfolio
+* Project Catalog
+* Certifications
+* Employment History
+* Other Experiences
+
+Your reply to this bid will allow me to share my contact/availability details for a meeting.
+
+Let's schedule a meeting tomorrow or the day after to discuss this further.
+
+Thanks,  
+Devendra
