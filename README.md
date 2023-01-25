@@ -1,20 +1,10 @@
 Hello,
 
-I read the project requirements and I would like to bid/work on this project.
+Don't get caught up between the terms Relational or Non-Relational, SQL or NoSQL, On-Premise or Cloud, LatestBuzzWord. If the database doesn't fulfill business needs it's useless.
 
-Please check my resume. It's given below the signature.
+I invite you to discuss your database problems with me. 
 
-Please don't forget to check my profile on this platform for details.
-* Marketplace Work History (with reviews and ratings)
-* Portfolio
-* Project Catalog
-* Certifications
-* Employment History
-* Other Experiences
-
-Your reply to this bid will allow me to share my contact/availability details for a meeting.
-
-Let's schedule a meeting tomorrow or the day after to discuss this further.
+Please visit [devendrashirbad.in](http://devendrashirbad.in/) and schedule a [30 min] One-on-One. It's FREE.
 
 Thanks,  
 Devendra
